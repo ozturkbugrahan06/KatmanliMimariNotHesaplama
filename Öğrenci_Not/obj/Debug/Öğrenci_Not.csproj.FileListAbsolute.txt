@@ -1,0 +1,17 @@
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.csprojAssemblyReference.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.Form1.resources
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.Properties.Resources.resources
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.csproj.GenerateResource.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.csproj.CoreCompileInputs.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\Öğrenci_Not.exe.config
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\Öğrenci_Not.exe
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\Öğrenci_Not.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\BUSINESSLOGICLAYER.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\ENTITYLAYER.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\FACADELAYERR.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\BUSINESSLOGICLAYER.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\ENTITYLAYER.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\bin\Debug\FACADELAYERR.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.csproj.CopyComplete
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.exe
+C:\Users\BugraHan\source\repos\Öğrenci_Not\Öğrenci_Not\obj\Debug\Öğrenci_Not.pdb

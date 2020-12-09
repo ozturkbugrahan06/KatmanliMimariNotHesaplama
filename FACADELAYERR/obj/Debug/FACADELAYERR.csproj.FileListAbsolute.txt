@@ -1,0 +1,9 @@
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\bin\Debug\FACADELAYERR.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\bin\Debug\FACADELAYERR.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\bin\Debug\ENTITYLAYER.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\bin\Debug\ENTITYLAYER.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\obj\Debug\FACADELAYERR.csprojAssemblyReference.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\obj\Debug\FACADELAYERR.csproj.CoreCompileInputs.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\obj\Debug\FACADELAYERR.csproj.CopyComplete
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\obj\Debug\FACADELAYERR.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\FACADELAYERR\obj\Debug\FACADELAYERR.pdb

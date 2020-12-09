@@ -1,0 +1,9 @@
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\bin\Debug\netstandard2.0\ENTITYLAYER.deps.json
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\bin\Debug\netstandard2.0\ENTITYLAYER.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\bin\Debug\netstandard2.0\ENTITYLAYER.pdb
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.AssemblyInfoInputs.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.AssemblyInfo.cs
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.dll
+C:\Users\BugraHan\source\repos\Öğrenci_Not\ENTITYLAYER\obj\Debug\netstandard2.0\ENTITYLAYER.pdb
