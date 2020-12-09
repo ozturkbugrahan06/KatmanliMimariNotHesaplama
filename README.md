@@ -1,0 +1,2 @@
+# KatmanliMimariNotHesaplama
+ 
